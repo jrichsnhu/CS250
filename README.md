@@ -29,4 +29,18 @@ Journals and Reflections: Weekly reflective entries documenting my learning, pra
 Gained hands-on experience with Agile proecesses and practices, understanding the importance of adaptability, continuous feedback, and effective communication in software developement
  Developed critical thinking and analytical skills for choosing the appropriate software development methodology based on project requirements and team dynamics
 Enhanced ability to collaborate effectively across different roles within Agile teams
+
+### Essential Questions and Reflections
+## How do I interpret user needs and implement them into a program?  How does creating "user stories" help with this?
+	
+I interpret user needs by actively engaging with stakeholders through continuous diaglogue and iterative feedback.  User stories significantly facilitate this by translating user requirements into clear, concise tasks that describe features directly from the user's perspective.  They ensure that development remains closely aligned with stakeholder expectations, making the implementation process efficient and relevant.
+
+## How do I approach developing programs? What Agile processes do I hope to incorportate into my future development work?
+	
+I approach software development iteratively and collaboratively, emphasizing flexibility and continuous improvement.  Agile practices I plan to incorporate into future projects include regular standup meetings to maintain clear communication, continous integration for seamless integration of code changes, and frequent sprint retrospectives to reflect and adapt processes proactively.  The adaptability and responsiveness emphasized by Agile will be cetnral to my development approach.
+
+## What does it mean to be a good team member in software development?
+
+Being a good team member in software development means actively participating through clear communication, active listening, and collaborative problem solving.  it involves accountability for one's repsonsibilities, consistently supporting teammates, proactively identifying and addressing potential issues, and positively contributing to overall team morale and productivity.  Good teamwork is foundational for effective Agile environments, enhancing both project outcomes and team dynamics.
+	
 	
