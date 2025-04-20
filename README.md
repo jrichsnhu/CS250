@@ -19,6 +19,9 @@ Sprint Rectrospective - Comprehensive reflection and evalutation document detail
 ### Agile vs. Waterfall Presentation
 Slide Deck: An insightful presentation comparing Agile and Waterfall methodologies, based on experiences from developing a mock SNHU Travel application.  Clearly contrasts advantages, disadvantages and appropriate use-cases of each methodology.
 
+### SNHU Travel Project Files
+.Jar files and project folders for the coding Assignments for SNHU Trave project
+
 ### Additional Artificats
 Journals and Reflections: Weekly reflective entries documenting my learning, practical experiences in different Scrum Roles, insights into Agile communication practice and evaluations of various project managment tools.
 
